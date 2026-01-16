@@ -1,6 +1,5 @@
 # Smart Traffic Light Control using Reinforcement Learning
 
-ROHIT ROHIT ROHIT ROHIT ROHIT 
 
 
 ## Objective
