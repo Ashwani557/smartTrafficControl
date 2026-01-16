@@ -1,7 +1,7 @@
 # Smart Traffic Light Control using Reinforcement Learning
 
 ## Objective
-Reduce vehicle waiting time using Q-learning.
+Reduce vehicle waiting time using Q-learning and optimize code
 
 ## Approach
 Traffic signal acts as an agent deciding which direction gets green light.
